@@ -1,0 +1,86 @@
+
+
+1.What is open source tool?
+	Open-source tools are software tools that are freely available without a commercial license.
+	 Many different kinds of open-source tools allow developers and others to do certain things in programming,
+	 maintaining technologies or other types of technology tasks.
+	 
+2.What is paid tool?
+	The competition to rank organically becomes more intense, as more businesses go online. 
+	Marketers must now have a competitive advantage to drive more traffic and revenue from organic listings. 
+	To make things easier, it’s always better to use best paid SEO tools to generate leads and optimize websites for audiences and search engines.
+
+	If you’re just getting started with website optimization and looking for the best 20 paid tools for SEO, we’ve got you covered.
+	Go through this list of SEO tools before you select one for your business, they will help you make an informed choice and make the most out of every buck you spend.
+	
+3.What is anaconda and why we use it?
+	Anaconda Python is a free, open-source platform that allows you to write and execute code in the programming language Python. 
+	It is by continuum.io, a company that specializes in Python development. The Anaconda platform is the most popular way to learn and use Python for scientific computing,
+	data science, and machine learning. It is used by over thirty million people worldwide and is available for Windows, macOS, and Linux.
+
+	People like using Anaconda Python because it simplifies package deployment and management. 
+	It also comes with a large number of libraries/packages that you can use for your projects. 
+	Since Anaconda Python is free and open-source, anyone can contribute to its development.
+-->Why Anaconda?
+	Anaconda is a distribution of packages built for data science. It comes with conda, a package, and environment manager.
+	We usually used conda to create environments for isolating our projects that use different versions of Python and/or different version of packages. 
+	We also use it to install, uninstall, and update packages in our project environments. When you download Anaconda first time it comes with conda, Python,
+	and over 150 scientific packages and their dependencies. Anaconda is a fairly large download (~500 MB) because it comes with the most common data science packages in Python, 
+	for people who are conservative about disk space, there is also Miniconda, a smaller distribution that includes only conda and Python. 
+	You can still install any of the available packages with conda, that comes by default with the standard version. 
+	Conda is a program we will be using exclusively from the command line, so if you aren’t comfortable using it, check out these learn by doing videos on Lynda.
+	com command prompt tutorial for Windows and Linux Command Line Basics for Mac OSX/Linux
+	
+4. What is difference between version in python?
+	One of the programming languages that has taken the world of technology to a whole new level is Python. 
+	The general-purpose programming language has found its applications in a plethora of fields like Data Science, Natural Language Processing, Artificial Intelligence, 
+	Software Engineering, etc.
+
+	The two major versions of Python that were introduced to the world were Python 2 and Python 3.
+	Although they are both just different versions of the same programming language, surprisingly, 
+	there are striking differences between the two and it would be extremely exciting to take a look at the differences between Python 2 and Python 3. 
+	In the past, there has been a lot of debate around the fact that which one of the two versions is better to use.
+	
+5. What is difference between .exe file and .setup file?
+	1.Setup File: A setup file is a type of file that is used to install a program on a computer. 
+		Setup files typically contain all of the necessary files and components needed to install and configure the program on the user's system, such as libraries, configuration files,
+		and registry settings. The setup file is usually used to guide the user through the installation process and ensure that the program is installed correctly. 
+		Examples of setup files include .exe, .msi, and .dmg files.
+	2.Executable File: An executable file, also known as an "exe" file, is a type of file that can be run on a computer to perform a specific task or set of tasks. 
+		Executable files can contain machine code that the computer's processor can execute directly, without the need for additional libraries or components. 
+		Executable files can be used to perform a wide range of tasks, from running a simple command-line utility to running a complex graphical application. 
+		Examples of executable files include .exe, .app, and .jar files.
+		
+6. What is difference between anaconda navigator and anaconda prompt?
+	Anaconda Navigator is a desktop graphical user interface that comes with the Anaconda distribution and allows us to run programs and manage anaconda packages, environments, 
+	and channels without having to use command-line commands. Packages can be found on Anaconda.org or in a local Anaconda Repository using Navigator. It’s compatible with Windows, 
+	Mac OS X, and Linux. Many scientific packages rely on certain versions of other programs to run.
+	Anaconda command prompt is just like command prompt, but it makes sure that you are able to use anaconda and conda commands from the prompt, without having to change directories or your path.
+
+	When you start Anaconda command prompt, you'll notice that it adds/("prepends") a bunch of locations to your PATH. These locations contain commands and scripts that you can run.
+	So as long as you're in the Anaconda command prompt, you know you can use these commands.
+	During the installation of Anaconda there is a choice to add these to the PATH by default, and if checked you can also use these commands on the regular command prompt.
+	But the anaconda prompt will always work.
+	
+7. What is difference between jupyter and spider tool?
+	Jupyter is a very popular application used for data analysis. It's an IPython notebook ("interactive python"). You can run each block of code separately. For example, 
+	I can print a graph using matplotlib. Create a new block of code and print another graph. There are also cool functions like %timeit that test the speed of your code.
+
+	Spyder is an Integrated Development Environment (IDE) for Python like Atom, Visual Studio, etc. I use VS Code and I suggest you install it as well. 
+	It's easier to learn and get running. There's also tons of helpful youtube videos due to its popularity.
+
+8. What is difference between Development, Testing and Deployment?
+	1.Development Environment is the direct place where the software is developed. It can be either the dev's desktop or a server where several developers collaborate on one project.
+	2.Test Environment is the place where all the tests are provided by the QA department of the project. QA specialist use this environment to get sure that application functions properly. 
+		Here all the bugs are found, reported and reviewed.
+	3.Production Environment is the environment where the application goes live and is opened to end-users. Feautures get to the Prod Environment only after the tester’s approval. 
+	  Released functionality is also checked on prod by QA specialist, if any bugs are found, then they are fixed ASAP and deployed as hotfixes directly to production.
+	  
+9. Why we use jupyter terminal ?
+	JupyterLab terminals provide full support for system shells (bash, tsch, etc.) on Mac/Linux and PowerShell on Windows. You can run anything in your system shell with a terminal,
+	including programs such as vim or emacs. The terminals run on the system where the Jupyter server is running, with the privileges of your user. 
+	Thus, if JupyterLab is installed on your local machine, the JupyterLab terminals will run there.
+	
+10. What is files, running and cluster in juypter?
+	There's a lot more to it, but I think that's all you need to know for now. As you gain more experience you'll learn more about the tools and find your preferences. 
+	If you want to know more, there a ton of information about them online with people who can probably explain this much better than I can.
